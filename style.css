@@ -1,0 +1,70 @@
+p{
+    color:darkred;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bg1{
+        background-image: url(./imagens/apetite\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 725px;
+    height: 372px;
+    }
+
+
+.bg2{
+    background-image: url(./imagens/depressao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 725px;
+    height: 372px;
+}
+
+.bg3{
+    background-image: url(./imagens/desempenho\ profissional.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 725px;
+    height: 372px;
+}
+
+.bg4{
+    background-image: url(./imagens/exausta\ esgotada.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 725px;
+    height: 372px;
+}
+
+.bg5{
+    background-image: url(./imagens/falhas\ memoria.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 725px;
+    height: 372px;
+}
+
+.bg6{
+    background-image: url(./imagens/fobias\ medos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 725px;
+    height: 372px;
+}
+
+.bg7{
+    background-image: url(./imagens/insonia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 725px;
+    height: 372px;
+}
+
+.bg8{
+    background-image: url(./imagens/foto\ geo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 725px;
+    height: 372px;
+}
